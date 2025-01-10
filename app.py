@@ -8,7 +8,7 @@ app = Flask(__name__)
 # inputlar için dropdown menü
 # 
 # Google Maps API Key
-GOOGLE_MAPS_KEY = "AIzaSyDbVk9SRUpOCbNH39nKN9cYRweWUqt3RtI"
+GOOGLE_MAPS_KEY = "YOUR_GOOGLE_MAP_API_KEY"
 
 # Model yükleme
 try:
